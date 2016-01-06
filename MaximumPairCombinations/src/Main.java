@@ -10,7 +10,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		long startTime = System.currentTimeMillis();
-		int n = 6;
+		int n = 4;
 		double k = 0.5;
 
 		// get random characters
